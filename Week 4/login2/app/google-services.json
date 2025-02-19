@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895765314854",
+    "project_id": "paisley2025403",
+    "storage_bucket": "paisley2025403.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895765314854:android:a16e4eae00d251b3d0d5e7",
+        "android_client_info": {
+          "package_name": "com.example.login2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmBuLdmLz1hime58KN_xctMzK139QQvkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
